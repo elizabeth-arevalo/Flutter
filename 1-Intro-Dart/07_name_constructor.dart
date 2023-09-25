@@ -5,7 +5,7 @@ void main(){
     name: 'Chat Noir', 
     power: 'Destruccion', 
     isAlive: true);
-    
+
   print(chat);
 
   final Map<String, dynamic> rawJson = {
